@@ -20,5 +20,5 @@
 <a href="https://linkedin.com/in/bhavya0598" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bhavya0598" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/bhavya-shah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="bhavya-shah" height="30" width="30" /></a>
 <a href="https://instagram.com/izzstar.shah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="izzstar.shah" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/matlab kuch bhi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="matlab kuch bhi" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCPvyG7om5j57CLoZsH6Pcgw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="matlab kuch bhi" height="30" width="30" /></a>
 </p>
