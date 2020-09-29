@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavya0598" alt="bhavya0598" /> </p>
 
-- 🔭 I’m currently working on **Car Lease Management**
+- 🔭 I’m currently working on **Car Lease Management System**
 
 - 💬 Ask me about **ASP.NET, Angular, Bootstrap, Sql Server**
 
