@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bhavya Shah</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavya0598" alt="bhavya0598" /> </p>
 
-- 🔭 I’m currently working on **ALD Automotive**
+- 🔭 I’m currently working on **Car Lease Management**
 
-- 💬 Ask me about **ASP.NET CORE WebAPI, Angular, Bootstrap**
+- 💬 Ask me about **ASP.NET, Angular, Bootstrap, Sql Server**
 
-- 📫 How to reach me **2679.stkabirnav@gmail.com**
+- 📫 How to reach me **bhavya0598@gmail.com**
 
 - ⚡ Fun fact **I am also a part time YouTuber**
 
